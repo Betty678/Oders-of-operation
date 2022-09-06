@@ -1,0 +1,5 @@
+first_number=int(input("Enter your first number:"))
+second_number=int(input("Enter your second number:"))
+print("Area of a triangle")
+print("Area of a square")
+print("Area of a rectangle")
